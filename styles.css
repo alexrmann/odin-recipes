@@ -1,0 +1,32 @@
+:root * {
+    box-sizing: border-box;
+}
+
+* {
+
+}
+
+html {
+    font-size: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+ul {
+
+}
+
+li {
+    font-size: 2rem;
+}
+
+a {
+
+}
